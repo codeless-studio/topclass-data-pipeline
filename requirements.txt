@@ -1,1 +1,10 @@
-# Python dependencies
+PyMuPDF
+pdfminer.six
+nltk
+spacy
+unidecode
+pandas
+PyYAML
+scikit-learn
+gensim
+click
